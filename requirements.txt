@@ -1,0 +1,9 @@
+openai==1.57.2
+langchain==0.3.10
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.0
+flask==3.1.0
+fastapi==0.115.6
+pydantic==2.10.3
+python-dotenv==1.0.1
