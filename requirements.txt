@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+torch
+numpy
+scikit-learn
+torch
+streamlit
