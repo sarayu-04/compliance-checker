@@ -85,3 +85,6 @@ python app/similarity_search.py
 ```
 This script also uses OpenAI's model to compare query embeddings against the stored document vectors.
 
+## License
+
+This project is licensed under the MIT License.
